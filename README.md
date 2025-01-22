@@ -21,7 +21,7 @@ When you have answered all the questions, add->commit->push the changes to your 
 
 1. Which of the following courses have you taken/are taking at Furman? 
 
-- [ ] CSC-272: Data Mining
+- [x] CSC-272: Data Mining
 - [ ] CSC-341: Database Systems
 - [ ] CSC-342: Web Development
 - [ ] CSC-332: Data Communications and Networking
@@ -29,21 +29,21 @@ When you have answered all the questions, add->commit->push the changes to your 
 
 2. Do you intend to pursue a career in software development?
 
-- [ ] Yes
+- [x] Yes
 - [ ] No
 
 3. Are you more interested in front-end or back-end development? Front-end development involves working on the user interface and user experience of a website or application. Back-end development involves working on the server-side of a website or application, including databases and server-side programming focused on algorithms, data processing, and business logic.
 
 - [ ] Front-end development
-- [ ] Back-end development
+- [x] Back-end development
 
 4. What kind of computer programming are you most interested in?
 
 - [ ] Web development
 - [ ] Mobile development
-- [ ] Game development
-- [ ] Data science
-- [ ] Machine learning
+- [x] Game development
+- [x] Data science
+- [x] Machine learning
 - [ ] Embedded systems 
 
 5. Before you read the survey results, come up with top five questions you would like answered about the software industry and life of a software developer? 
