@@ -84,42 +84,50 @@ In terms of languages, I want to learn JS (especially the react library), SQL, a
 
 - [ ] In-person
 - [ ] Remote
-- [ ] Hybrid
+- [x] Hybrid
 
 15. How do your preferences compare with the survey results?
+It looks like more developers do hybrid work compared to either other category, which is a pleasant surprise. 
 
 16. Do you currently use AI tools in your development process? 
 
-- [ ] Yes
+- [x] Yes
 - [ ] No, but I plan to soon 
 - [ ] No, and I don't plan to
 
 17. How do your choices compare with the survey results?
+The majority of people also use AI in their development process, which doesn't surprise me at this point.
 
 18. How favorable is your stance on using AI tools as part of your development workflow?
 
 - [ ] Very favorable
-- [ ] Favorable
+- [x] Favorable
 - [ ] Indifferent
 - [ ] Unsure 
 - [ ] Unfavorable
 - [ ] Very unfavorable
 
 19. How do your choices compare with the survey results?
+It seems like a lot of devs feel the same way I do. The overwhelming majority fall somewhere between "indifferent" and "very favorable". 
 
 20. Do you believe AI is a threat to your future career prospects?
 
 - [ ] Yes
-- [ ] I'm not sure
+- [x] I'm not sure
 - [ ] No
 
 21. How do your choices compare with the survey results?
+Devs regardless of experience seem to doubt AI will threaten their jobs. Of all respondents, only 19.6% agree with my outlook here.
 
 22. Do you code outside of course work? How do your choices compare with the survey results?
+Yes, mostly as a hobby or for fraternity stuff. It seems like the vast majority of devs also code outside of the scope of their work. 
 
 23. What percentage of respondents are satisfied in their current professional developer role?
+Most contributors were at least complacent with their work role. I'm a little saddened to see only 20-25% of respondents say they're happy, but such is life I guess.
 
 24. What is the median salary of developers who work with Bash/Shell (pwd, ls, mkdir, cd..)? 
+$75184
 
 25. Write your general impressions of the survey results. What did you find most interesting? What did you find most surprising? What did you find most concerning?
+I wasn't too surprised by the survey results in general. The disparity in median salary between programming languages was a little startling, but my guess is the over- and under-performers are just specialized to higher- and lower-paying jobs respectively. I'm glad to see that so many contributors had hybrid work schedules, which I think is my preferred approach. I also thought more participants would be more scared of AI threatening their jobs, but I guess people in the field tend to carry a more optimistic attitude about it than the general population. 
 
