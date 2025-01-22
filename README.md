@@ -47,24 +47,38 @@ When you have answered all the questions, add->commit->push the changes to your 
 - [ ] Embedded systems 
 
 5. Before you read the survey results, come up with top five questions you would like answered about the software industry and life of a software developer? 
+a) How secure is a typical backend software dev job?
+b) Is the typical software dev job remote, in-office, or hybrid?
+c) How is AI shaping up to change the role of software devs?
+d) Is it worthwhile for a software dev to go to graduate school straight out of college?
+e) Do you need a strong grasp of how hardware works to be a good software dev?
 
 6. The first thing you should do when reading a survey is to understand the methodology, particularly the sample size and how any biases in the sample may affect the results. What is the sample size (number of respondents) of the survey? 
+Sample size: 65437
 
 7. Do you spot any potential biases in the survey that might not make the results truly representative of the developer community?
+This survey is only focused on Stack Overflow users, limiting its generalizability to the whole developer community. Also, it seems like the survey is in English, maybe limiting how many non-English speaking devs can participate. 
 
 8. What are the most popular programming languages in 2024, amongst all respondents? How do the results of professional developers compare with respondents learning to code?
+JavaScript, HTML, and SQL are the most popular programming languages among professional developers (JS > SQL > HTML). For learners, the top 3 are Python, HTML, and JS.
 
 9. Are you surprised by the results of the previous question? Why or why not? Speculate on why the results are the way they are.
+I'm not surprised. As I understand it, JS is really popular for software development, HTML is core for websites, and SQL is good for database management. These are 3 huge fields of software development, so it's not a shock they are so popular. 
 
 10. How many of the 10 most popular programming languages in 2024 are you familiar with / proficient in?
+I'm familiar with all of them, but can only code in Python, some C++, and a tiny bit of JS spun off for Google Sheets. 
 
 11. Have you worked with databases, and if so, which database systems have you used? Where do these databases rank in the survey results for the most popular databases in 2024?
+I've never worked with databases. 
 
 12. What is the most popular IDE in 2024, amongst all respondents? Which ones do you use from the top 10?
+Visual Studio Code by far. I've used VSC, Jupyter Notebook, Sublime, and Notepad++
 
 13. CSC-272: Data Mining last semester covered Pandas and Scikit-learn. CSC-372: Machine Learning this semester covers PyTorch and Numpy. What percentage of respondents use these frameworks / libraries in 2024?
+In order: 20.7%, 10.6%, 10.6%, and 21.2%
 
 14. What technologies do you want to learn in the future? How do your choices compare with "Worked with vs. want to work" with section of the suvey? 
+In terms of languages, I want to learn JS (especially the react library), SQL, and I want to do more stuff with Arduino and Raspberry Pi. My choices line up with some of the most popular technologies in the survey.  
 
 15. Do you have a preference for working in-person or remotely or a mix of both? 
 
