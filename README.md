@@ -121,6 +121,7 @@ most people use AI nowadays and if you don't learn how to use it there is a chan
 - [ ] Very unfavorable
 
 19. How do your choices compare with the survey results?
+
 I am favorable to that like 48% of the people that took the survey.
 
 
@@ -131,12 +132,21 @@ I am favorable to that like 48% of the people that took the survey.
 - [ ] No
 
 21. How do your choices compare with the survey results?
+
 Most developer think it is not a threat and just a tool to help programer. I personally don't have an opinion on that yet.
+
 22. Do you code outside of course work? How do your choices compare with the survey results?
+
+The majority of developpers code outside of their work place as a hobby. I personally don't during the year as my days are very busy but I try during break and summer.
 
 23. What percentage of respondents are satisfied in their current professional developer role?
 
+The majority of developers are complacent at work (47,7%) and only a minority is satisfied/happy at their work (20.2%).
+
 24. What is the median salary of developers who work with Bash/Shell (pwd, ls, mkdir, cd..)? 
+
+Their median salary is $75 184.
 
 25. Write your general impressions of the survey results. What did you find most interesting? What did you find most surprising? What did you find most concerning?
 
+I think that it is suprising how many people seem like they are just settling for their job while most people program as a hobby outside of their work. This reflects a great passion people have in this field that is not reflected in the work place. 
